@@ -11,7 +11,7 @@ Depending on the online dating system, the system may not be able to recognize s
 It is important to not recommend users who are popular to everyone, because they may get too much attention and stop messaging. The user that sent the message to the popular match may assume disinterest when the reality is the user is overwhelmed and cannot siphon through all profiles.
 Because the system can not distinguish between proactive and reactive users, it is key for reactive users to be in the recommendations for the system to learn their preference.
 
-At IBM, there is a social networking website that uses content-based filtering. Content-based filtering in this context tags users using certain keywords to understand what the user is interested in. Then it looks up those keywords in the database and recommend similar users that share the same interest. This yields the best recommendations at connecting users with people that can assist them with unfamiliar tasks.
+At IBM, there is a social networking website that uses content-based filtering. Content-based filtering in this context tags users using certain keywords to understand what the user is interested in. Then it looks up those keywords and recommends similar users that share the same interest. This yields the best recommendations at connecting users with people that can assist them with unfamiliar tasks.
 
 In one study, personal characteristics are more important to certain group of users. For instance, women are pickier about their match’s occupation than men are. There is a positive relationship in personal attributes between compatible matches. The article suggests there is a possible value of integrating content-based techniques into online dating recommenders.
 
