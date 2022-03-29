@@ -31,4 +31,4 @@ It was found that using top 10 / top 20 recommendations for new users, 1 in 4 kn
 
 Reciprocal recommenders must deal with how to distribute recommendations, to not overload popular matches or forget to include matches that are not popular. Most users like popular users, but reciprocal recommenders index for reciprocation, which may match a popular user with a non-popular user.
 
-In the foreseeable future, I will further explore other proposed reciprocal recommenders that optimizes for successful matches.
+In the foreseeable future, I plan to digest and understand other proposed reciprocal recommenders that optimizes for successful matching outcomes.
