@@ -9,7 +9,7 @@ Examining the user’s implicit behavior is telling. For instance, if a user see
 Depending on the online dating system, the system may not be able to recognize success or failure. Feedback is lacking: A person may leave the website after finding a successful match, or conversely, may have been discouraged and quit the website prematurely. One way of understanding the user is by looking at the amount of mutual messaging – or lack of messaging – that occurs between two users.
 
 It is important to not recommend users who are popular to everyone, because they may get too much attention and stop messaging. The user that sent the message to the popular match may assume disinterest when the reality is the user is overwhelmed and cannot siphon through all profiles.
-Because the system can not distinguish between proactive and reactive users, it is key for reactive users to be in the recommendations so the system to learn their preference.
+Because the system can not distinguish between proactive and reactive users, it is key for reactive users to be in the recommendations for the system to learn their preference.
 
 At IBM, there is a social networking website that uses content-based filtering. Content-based filtering in this context tags users using certain keywords to understand what the user is interested in. Then it looks up those keywords in the database and recommend similar users that share the same interest. This yields the best recommendations at connecting users with people that can assist them with unfamiliar tasks.
 
