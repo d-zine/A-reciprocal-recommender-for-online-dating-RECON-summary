@@ -1,4 +1,4 @@
-# A-reciprocal-recommender-for-online-dating-RECON-summary
+# A reciprocalrecommender for online dating: RECON summary
 
 Reciprocity is the key to success in online dating.
 
