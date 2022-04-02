@@ -19,7 +19,7 @@ The dataset used to create the recommender in this article is based on an Austra
 
 Once mutual messaging is established, a preference model is constructed which records the attributes of both parties. This is a good signal of the type of user liked by the initiator of the message.
 
-While profiles have both free text and attributes, free text was ignored and only attributes like body shape, personality, marital status, and education were considered in building the recommender.  The recommender finds people who contain all the attributes that the user looked for and generates a preference model, which learns based on mutual messaging. 
+While profiles have both free text and attributes, free text was ignored and only attributes like body shape, personality, marital status, and education were considered in building the recommender.  The recommender finds people who contain all the attributes that the user looked for and generates a preference model, which is initialized after mutual messaging has taken place. 
 
 If a person is messaging in a big city, their number of recommendations is going to be larger than someone who messaged in a smaller area. Ranking recommendations can be based on user’s engagement on the website or if they are a premium member.
 
